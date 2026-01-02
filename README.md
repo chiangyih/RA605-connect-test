@@ -1,7 +1,7 @@
-# RA605-connect-test2
+# RA605-710-GB 連線測試 & LIN 運動測試
 
 ## 概覽
-`RA605-connect-test2` 是一個 WinForms 用戶端應用程式，用來測試和控制 HIWIN RA605 機械手臂。透過 HRSDK（Hiwin Robot SDK）的 `HRobot.dll`，應用程式可以實現連線、馬達控制、位置查詢和 LIN 直線運動等功能。工程師無需進入示教器就能驗證通訊協議、運動軌跡和安全邏輯。
+`RA605-connect-test2` 一個 WinForms 用戶端應用程式，用來測試和控制 HIWIN RA605 機械手臂。透過 HRSDK（Hiwin Robot SDK）的 `HRobot.dll`，應用程式可以實現連線、馬達控制、位置查詢和 LIN 直線運動等功能。工程師無需進入示教器就能驗證通訊協議、運動軌跡和安全邏輯。
 
 ---
 
@@ -120,7 +120,7 @@ RA605-connect-test/
 
 **主要方法數量**：45+ 個（包括事件處理、邏輯、輔助方法）
 
-### 🔵 Form1.Designer.cs（自動生成的 UI）
+### 🔵 Form1.Designer.cs
 
 **職責**：WinForms 設計器自動生成的 UI 元件代碼
 
