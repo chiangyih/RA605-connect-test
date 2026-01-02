@@ -3,6 +3,8 @@
 ## 概覽
 `RA605-connect-test2` 一個 WinForms 用戶端應用程式，用來測試和控制 HIWIN RA605 機械手臂。透過 HRSDK（Hiwin Robot SDK）的 `HRobot.dll`，應用程式可以實現連線、馬達控制、位置查詢和 LIN 直線運動等功能。工程師無需進入示教器就能驗證通訊協議、運動軌跡和安全邏輯。
 
+<img width="900" height="645" alt="image" src="https://github.com/user-attachments/assets/2afafe31-e4ba-481f-a719-92881fc787aa" />
+
 ---
 
 ## ⚠️ 重要注意事項
@@ -47,17 +49,10 @@
 5. 記下 HRSS 中控制器的 IP 位址（通常為 localhost 或 127.0.0.1）
 6. 在本應用中輸入該 IP 並連接
 
+
 **HRSS 中的 EXT 模式設置**：
-```
-HRSS 菜單：
-    Robot → Properties/機械手臂設置
-         ↓
-    Operation Mode/操作模式
-         ↓
-    選擇 EXT（外部模式）
-         ↓
-    確認並啟動模擬
-```
+
+<img width="1201" height="490" alt="image" src="https://github.com/user-attachments/assets/4c98f308-c70a-4e82-a8f7-f9bda822d9d2" />
 
 **注意**：
 - HRSS 默認監聽 `localhost:9090` 或 `127.0.0.1`
@@ -88,16 +83,12 @@ HRSS 菜單：
 5. 點擊 Connect 進行連接
 6. 開啟馬達（Motor ON）進行測試
 
+
+
 **實機環境的 EXT 模式設置**：
-```
-示教器中的設置步驟：
-    [主菜單] → [系統設置] → [操作模式]
-                    ↓
-    將操作模式設為 EXT（外部模式）
-                    ↓
-    確認並保存設置
-    （設置會立即生效，無需重啟）
-```
+
+<img width="623" height="444" alt="image" src="https://github.com/user-attachments/assets/7a334812-62bd-4c6a-bc1f-5e54b61c8c60" />
+
 
 **安全考量**：
 - ⚠️ 確保人員在安全距離外
