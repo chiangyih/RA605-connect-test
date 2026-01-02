@@ -51,8 +51,6 @@
 
 <img width="1201" height="490" alt="image" src="https://github.com/user-attachments/assets/4c98f308-c70a-4e82-a8f7-f9bda822d9d2" />
 
-
-
 **注意**：
 - HRSS 默認監聽 `localhost:9090` 或 `127.0.0.1`
 - 可在 HRSS 設置中查看或修改監聽 IP 和 PORT
