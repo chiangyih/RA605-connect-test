@@ -81,8 +81,13 @@
 5. 點擊 Connect 進行連接
 6. 開啟馬達（Motor ON）進行測試
 
+
+
 **實機環境的 EXT 模式設置**：
+
 <img width="623" height="444" alt="image" src="https://github.com/user-attachments/assets/7a334812-62bd-4c6a-bc1f-5e54b61c8c60" />
+
+
 **安全考量**：
 - ⚠️ 確保人員在安全距離外
 - ⚠️ 啟用緊急停止按鈕
