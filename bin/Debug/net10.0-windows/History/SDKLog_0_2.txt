@@ -1,0 +1,108 @@
+2026-1-2_22:37:17 set_mode 0  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 1.00 ov 10 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 0 t1/2 0 pl 1.00 ov 10 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 0 t1/2 0 pl 1.00 ov 10 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 0 t1/2 0 pl 1.00 ov 10 fo 0000 coord 0 sz 31
+2026-1-2_22:37:34 set_mode 1  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 1.00 ov 10 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 1.00 ov 10 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 1.00 ov 10 fo 0000 coord 0 sz 31
+2026-1-2_22:37:34 set_line_speed 16960 15  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 1.00 ov 10 fo 0000 coord 0 sz 31
+2026-1-2_22:37:34 lin_pos 0 0 0 68 50 48 48 46 48 48 48 48 48 48 48 44 51 54 56 46 48 48 48 48 48 48 48 44 50 57 51 46 53 48 48 48 48 48 48 44 49 56 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 57 48 46 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 1.00 ov 10 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 1.00 ov 10 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 1.00 ov 10 fo 0000 coord 0 sz 31
+2026-1-2_22:38:12 set_line_speed 16960 15  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 1.00 ov 10 fo 0000 coord 0 sz 31
+2026-1-2_22:38:12 lin_pos 0 0 0 67 48 46 48 48 48 48 48 48 48 44 51 54 56 46 48 48 48 48 48 48 48 44 50 57 51 46 53 48 48 48 48 48 48 44 45 49 56 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 57 48 46 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 1.00 ov 10 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 1.00 ov 10 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 1.00 ov 10 fo 0000 coord 0 sz 31
+2026-1-2_22:38:57 set_line_speed 16960 15  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 1.00 ov 10 fo 0000 coord 0 sz 31
+2026-1-2_22:38:57 lin_pos 0 0 0 68 48 46 48 48 48 48 48 48 48 44 51 54 56 46 48 48 48 48 48 48 48 44 50 57 51 46 53 48 48 48 48 48 48 44 45 49 56 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 45 57 48 46 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 1.00 ov 10 fo 0000 coord 0 sz 31
+2026-1-2_22:39:4 set_line_speed 16960 15  0 
+2026-1-2_22:39:4 lin_pos 0 0 0 67 48 46 48 48 48 48 48 48 48 44 51 54 56 46 48 48 48 48 48 48 48 44 50 57 51 46 53 48 48 48 48 48 48 44 45 49 56 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 57 48 46 48 48 48 48 48 48  0 
+2026-1-2_22:39:49 set_line_speed 33920 30  0 
+2026-1-2_22:39:49 lin_pos 0 0 0 67 48 46 48 48 48 48 48 48 48 44 51 54 56 46 48 48 48 48 48 48 48 44 50 57 51 46 53 48 48 48 48 48 48 44 45 49 56 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 57 48 46 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 1.00 ov 10 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 1.00 ov 10 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 1.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 1.00 ov 50 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 1.00 ov 75 fo 0000 coord 0 sz 31
+2026-1-2_22:40:14 set_line_speed 33920 30  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 1.00 ov 75 fo 0000 coord 0 sz 31
+2026-1-2_22:40:14 lin_pos 0 0 0 67 48 46 48 48 48 48 48 48 48 44 51 54 56 46 48 48 48 48 48 48 48 44 50 57 51 46 53 48 48 48 48 48 48 44 45 49 56 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 57 48 46 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 1.00 ov 75 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 1.00 ov 75 fo 0000 coord 0 sz 31
+2026-1-2_22:40:19 set_line_speed 33920 30  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 1.00 ov 75 fo 0000 coord 0 sz 31
+2026-1-2_22:40:19 lin_pos 0 0 0 68 48 46 48 48 48 48 48 48 48 44 51 54 56 46 48 48 48 48 48 48 48 44 50 57 51 46 53 48 48 48 48 48 48 44 45 49 56 48 46 48 48 48 48 48 48 48 44 50 48 46 48 48 48 48 48 48 48 44 57 48 46 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 1.00 ov 75 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 1.00 ov 75 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 1.00 ov 75 fo 0000 coord 0 sz 31
+2026-1-2_22:40:32 set_line_speed 33920 30  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 1.00 ov 75 fo 0000 coord 0 sz 31
+2026-1-2_22:40:32 lin_pos 0 0 0 67 48 46 48 48 48 48 48 48 48 44 51 54 56 46 48 48 48 48 48 48 48 44 50 57 51 46 53 48 48 48 48 48 48 44 45 49 56 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 57 48 46 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 1.00 ov 75 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 1.00 ov 75 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 1.00 ov 75 fo 0000 coord 0 sz 31
+2026-1-2_22:40:40 set_line_speed 33920 30  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 1.00 ov 75 fo 0000 coord 0 sz 31
+2026-1-2_22:40:40 lin_pos 0 0 0 66 48 46 48 48 48 48 48 48 48 44 51 54 56 46 48 48 48 48 48 48 48 44 50 57 51 46 53 48 48 48 48 48 48 44 49 48 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 57 48 46 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 1.00 ov 75 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 1.00 ov 75 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 1.00 ov 75 fo 0000 coord 0 sz 31
+2026-1-2_22:41:13 set_line_speed 33920 30  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 1.00 ov 75 fo 0000 coord 0 sz 31
+2026-1-2_22:41:13 lin_pos 0 0 0 66 48 46 48 48 48 48 48 48 48 44 51 54 56 46 48 48 48 48 48 48 48 44 50 57 51 46 53 48 48 48 48 48 48 44 49 56 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 57 48 46 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 1.00 ov 75 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 1.00 ov 75 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 1.00 ov 75 fo 0000 coord 0 sz 31
+2026-1-2_22:41:24 set_line_speed 33920 30  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 1.00 ov 75 fo 0000 coord 0 sz 31
+2026-1-2_22:41:24 lin_pos 0 0 0 65 48 46 48 48 48 48 48 48 48 44 51 54 56 46 48 48 48 48 48 48 48 44 50 57 51 46 53 48 48 48 48 48 48 44 57 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 57 48 46 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 1.00 ov 75 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 1.00 ov 75 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 1.00 ov 75 fo 0000 coord 0 sz 31
+2026-1-2_22:41:36 set_line_speed 33920 30  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 1.00 ov 75 fo 0000 coord 0 sz 31
+2026-1-2_22:41:36 lin_pos 0 0 0 66 48 46 48 48 48 48 48 48 48 44 51 54 56 46 48 48 48 48 48 48 48 44 50 57 51 46 53 48 48 48 48 48 48 44 45 57 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 57 48 46 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 1.00 ov 75 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 1.00 ov 75 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 1.00 ov 75 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 1.00 ov 100 fo 0000 coord 0 sz 31
+2026-1-2_22:41:59 set_line_speed 33920 30  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 1.00 ov 100 fo 0000 coord 0 sz 31
+2026-1-2_22:41:59 lin_pos 0 0 0 65 48 46 48 48 48 48 48 48 48 44 51 54 56 46 48 48 48 48 48 48 48 44 50 57 51 46 53 48 48 48 48 48 48 44 57 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 57 48 46 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 1.00 ov 100 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 1.00 ov 100 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 1.00 ov 100 fo 0000 coord 0 sz 31
+2026-1-2_22:42:17 set_line_speed 33920 30  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 1.00 ov 100 fo 0000 coord 0 sz 31
+2026-1-2_22:42:17 lin_pos 0 0 0 66 48 46 48 48 48 48 48 48 48 44 51 54 56 46 48 48 48 48 48 48 48 44 50 57 51 46 53 48 48 48 48 48 48 44 49 56 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 57 48 46 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 1.00 ov 100 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 1.00 ov 100 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 1.00 ov 100 fo 0000 coord 0 sz 31
+2026-1-2_22:42:53 set_line_speed 33920 30  0 
+2026-1-2_22:42:53 lin_pos 0 0 0 67 48 46 48 48 48 48 48 48 48 44 51 54 56 46 48 48 48 48 48 48 48 44 50 57 51 46 53 48 48 48 48 48 48 44 49 56 48 46 48 48 48 48 48 48 48 44 50 48 46 48 48 48 48 48 48 48 44 57 48 46 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 1.00 ov 100 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 1.00 ov 100 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 1.00 ov 100 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 1.00 ov 100 fo 0000 coord 0 sz 31
+2026-1-2_22:43:3 set_line_speed 33920 30  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 1.00 ov 100 fo 0000 coord 0 sz 31
+2026-1-2_22:43:3 lin_pos 0 0 0 66 48 46 48 48 48 48 48 48 48 44 51 54 56 46 48 48 48 48 48 48 48 44 50 57 51 46 53 48 48 48 48 48 48 44 49 56 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 57 48 46 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 1.00 ov 100 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 1.00 ov 100 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 1.00 ov 100 fo 0000 coord 0 sz 31
+2026-1-2_22:43:12 set_line_speed 33920 30  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 1.00 ov 100 fo 0000 coord 0 sz 31
+2026-1-2_22:43:12 lin_pos 0 0 0 68 48 46 48 48 48 48 48 48 48 44 51 54 56 46 48 48 48 48 48 48 48 44 50 57 51 46 53 48 48 48 48 48 48 44 49 56 48 46 48 48 48 48 48 48 48 44 45 57 48 46 48 48 48 48 48 48 48 44 57 48 46 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 1.00 ov 100 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 1 msts 5 op 1 t1/2 1 pl 1.00 ov 100 fo 0001 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 1 msts 1 op 1 t1/2 1 pl 1.00 ov 100 fo 0001 coord 1 sz 37
+2026/01/02_22:43:14_01-03-32_UËGpﬁ - (-7)
+192.168.6.102 0

@@ -1,0 +1,30 @@
+2026-1-2_22:44:25 set_mode 0  0 
+hdl 1 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 1.00 ov 10 fo 0000 coord 0 sz 31
+hdl 1 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 0 t1/2 0 pl 1.00 ov 10 fo 0000 coord 0 sz 31
+hdl 1 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 0 t1/2 0 pl 1.00 ov 10 fo 0000 coord 1 sz 37
+hdl 1 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 0 t1/2 0 pl 1.00 ov 10 fo 0000 coord 0 sz 31
+hdl 1 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 1.00 ov 10 fo 0000 coord 0 sz 31
+2026-1-2_22:44:39 set_line_speed 33920 30  0 
+hdl 1 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 1.00 ov 10 fo 0000 coord 0 sz 31
+2026-1-2_22:44:39 lin_pos 0 0 0 68 48 46 48 48 48 48 48 48 48 44 51 54 56 46 48 48 48 48 48 48 48 44 50 57 51 46 53 48 48 48 48 48 48 44 49 56 48 46 48 48 48 48 48 48 48 44 45 52 53 46 48 48 48 48 48 48 48 44 57 48 46 48 48 48 48 48 48  0 
+hdl 1 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 1.00 ov 10 fo 0000 coord 0 sz 31
+hdl 1 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 1.00 ov 30 fo 0000 coord 0 sz 31
+hdl 1 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 1.00 ov 50 fo 0000 coord 0 sz 31
+hdl 1 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 1.00 ov 75 fo 0000 coord 0 sz 31
+hdl 1 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 1.00 ov 100 fo 0000 coord 1 sz 37
+hdl 1 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 1.00 ov 100 fo 0000 coord 0 sz 31
+2026-1-2_22:44:51 set_line_speed 33920 30  0 
+hdl 1 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 1.00 ov 100 fo 0000 coord 0 sz 31
+2026-1-2_22:44:51 lin_pos 0 0 0 66 48 46 48 48 48 48 48 48 48 44 51 54 56 46 48 48 48 48 48 48 48 44 50 57 51 46 53 48 48 48 48 48 48 44 49 56 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 57 48 46 48 48 48 48 48 48  0 
+hdl 1 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 1.00 ov 100 fo 0000 coord 0 sz 31
+hdl 1 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 1.00 ov 100 fo 0000 coord 1 sz 37
+hdl 1 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 1.00 ov 100 fo 0000 coord 0 sz 31
+Command 13 disconnect Err code 2009
+ShutdownAndColse socket= 000001F6DDFE7638
+Handle 1recv=0 Socket closed !
+
+Network disconnected !SDK handle fun close connection !
+ShutdownAndColse socket= 000001F6DDFE7640
+ShutdownAndColse socket= 000001F6DDFE7648
+2026-1-2_22:45:27 Close connection !
+192.168.6.102 1

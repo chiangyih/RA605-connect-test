@@ -1,0 +1,25 @@
+2026-1-2_22:30:7 set_mode 0  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 1.00 ov 10 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 0 t1/2 0 pl 1.00 ov 10 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 0 t1/2 0 pl 1.00 ov 10 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 0 t1/2 0 pl 1.00 ov 10 fo 0000 coord 0 sz 31
+2026-1-2_22:30:36 set_mode 1  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 1.00 ov 10 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 1.00 ov 10 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 1.00 ov 10 fo 0000 coord 0 sz 31
+2026-1-2_22:30:37 set_line_speed 34464 1  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 1.00 ov 10 fo 0000 coord 0 sz 31
+2026-1-2_22:30:37 lin_pos 0 0 0 66 48 46 48 48 48 48 48 48 48 44 51 54 56 46 48 48 48 48 48 48 48 44 50 57 51 46 53 48 48 48 48 48 48 44 49 56 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 57 48 46 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 1.00 ov 10 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 1.00 ov 10 fo 0000 coord 0 sz 31
+2026-1-2_22:30:42 set_line_speed 34464 1  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 1.00 ov 10 fo 0000 coord 0 sz 31
+2026-1-2_22:30:42 lin_pos 0 0 0 66 48 46 48 48 48 48 48 48 48 44 51 54 56 46 48 48 48 48 48 48 48 44 50 57 51 46 53 48 48 48 48 48 48 44 49 56 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 57 48 46 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 1.00 ov 10 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 1.00 ov 10 fo 0000 coord 0 sz 31
+Network disconnected !SDK handle fun close connection !
+ShutdownAndColse socket= 000002298013AA08
+ShutdownAndColse socket= 000002298013AA10
+ShutdownAndColse socket= 000002298013AA18
+2026-1-2_22:31:3 Close connection !
+192.168.6.102 0

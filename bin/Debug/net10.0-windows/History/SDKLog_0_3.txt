@@ -1,0 +1,30 @@
+2026-1-2_22:32:37 set_mode 0  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 1.00 ov 10 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 0 t1/2 0 pl 1.00 ov 10 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 0 t1/2 0 pl 1.00 ov 10 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 0 t1/2 0 pl 1.00 ov 10 fo 0000 coord 0 sz 31
+2026-1-2_22:32:52 set_mode 1  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 1.00 ov 10 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 1.00 ov 10 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 1.00 ov 10 fo 0000 coord 0 sz 31
+2026-1-2_22:32:53 set_line_speed 16960 15  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 1.00 ov 10 fo 0000 coord 0 sz 31
+2026-1-2_22:32:53 lin_pos 0 0 0 68 50 48 48 46 48 48 48 48 48 48 48 44 51 54 56 46 48 48 48 48 48 48 48 44 50 57 51 46 53 48 48 48 48 48 48 44 49 56 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 57 48 46 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 1.00 ov 10 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 1.00 ov 10 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 1.00 ov 10 fo 0000 coord 0 sz 31
+2026-1-2_22:33:4 set_line_speed 16960 15  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 1.00 ov 10 fo 0000 coord 0 sz 31
+2026-1-2_22:33:4 lin_pos 0 0 0 66 48 46 48 48 48 48 48 48 48 44 51 54 56 46 48 48 48 48 48 48 48 44 50 57 51 46 53 48 48 48 48 48 48 44 49 56 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 57 48 46 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 1.00 ov 10 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 1.00 ov 10 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 1.00 ov 10 fo 0000 coord 0 sz 31
+Command 13 disconnect Err code 2009
+ShutdownAndColse socket= 000001AF4C97EB98
+Handle 0recv=0 Socket closed !
+
+ShutdownAndColse socket= 000001AF4C97EBA0
+Network disconnected !SDK handle fun close connection !
+ShutdownAndColse socket= 000001AF4C97EBA8
+2026-1-2_22:33:9 Close connection !
+192.168.6.102 0
