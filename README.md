@@ -47,6 +47,7 @@
 5. 記下 HRSS 中控制器的 IP 位址（通常為 localhost 或 127.0.0.1）
 6. 在本應用中輸入該 IP 並連接
 
+
 **HRSS 中的 EXT 模式設置**：
 
 <img width="1201" height="490" alt="image" src="https://github.com/user-attachments/assets/4c98f308-c70a-4e82-a8f7-f9bda822d9d2" />
@@ -82,8 +83,6 @@
 
 **實機環境的 EXT 模式設置**：
 <img width="623" height="444" alt="image" src="https://github.com/user-attachments/assets/7a334812-62bd-4c6a-bc1f-5e54b61c8c60" />
-
-
 **安全考量**：
 - ⚠️ 確保人員在安全距離外
 - ⚠️ 啟用緊急停止按鈕
