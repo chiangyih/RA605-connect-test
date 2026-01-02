@@ -1,43 +1,43 @@
 # RA605-connect-test2
 
-## ����
-`RA605-connect-test2` �O�@��²���� WinForms �Τ�ݡA�ΨӴ��� HIWIN RA605 HRSDK (`HRobot.dll`)�C���i�H�s�u�챱��B��ܻ�����x�A�ô��� LIN �B�ʻP���F����\��A���u�{�v���ζi�J�ܱо��N�����ҳq�T�P�y���޿�C
+## 概覽
+`RA605-connect-test2` 是一個簡易的 WinForms 用戶端，用來測試 HIWIN RA605 HRSDK (`HRobot.dll`)。它可以連線到控制器、顯示遙測日誌，並提供 LIN 運動與馬達控制功能，讓工程師不用進入示教器就能驗證通訊與軌跡邏輯。
 
-## �D�n�\��
-- **�s�u / ���_�y�{**�G�w�]�s�u IP �� `192.168.203.200`�A�|��� SDK �����ðO���C�h callback�C
-- **���F����**�G`Motor ON` / `Motor OFF` ���s���ѽT�{�B���A�ˬd�Pĵ���^���A�����A���F�i�w���}���C
-- **LIN �B�ʴ���**�G��J X,Y,Z,A,B,C �y�СB�t�סB�Ҧ��P smooth �ȧY�i���� `lin_pos`�A���t���F���A�B�ާ@�Ҧ��B�i�F�ʻP���|�ˬd�C
-- **���e��m���U**�G�@��N������u���Y�� TCP �y�лP���`���׶�J LIN ��J�ءA��K�i��i�w�����L�աC
-- **��x����**�G�Ҧ��ާ@�P SDK �^�����|�a�ɶ��W�O�a Append �i�u�ʦ���x�H��U�����C
+## 主要功能
+- **連線 / 中斷流程**：預設連線 IP 為 `192.168.203.200`，會顯示 SDK 版本並記錄每則 callback。
+- **馬達控制**：`Motor ON` / `Motor OFF` 按鈕提供確認、狀態檢查與警報回報，讓伺服馬達可安全開關。
+- **LIN 運動測試**：輸入 X,Y,Z,A,B,C 座標、速度、模式與 smooth 值即可執行 `lin_pos`，內含馬達狀態、操作模式、可達性與路徑檢查。
+- **當前位置輔助**：一鍵將機械手臂的即時 TCP 座標與關節角度填入 LIN 輸入框，方便進行可預測的微調。
+- **日誌視窗**：所有操作與 SDK 回應都會帶時間戳記地 Append 進滾動式日誌以協助除錯。
 
-## �ϥλݨD
-- �ؼЬ� .NET 10
-- Windows ���ҡA�ݦw�� Hiwin HRSDK �B��s�� `HRSDK.dll`
-- ���u����i�ѳ]�w�� IP ��}�s��
+## 使用需求
+- 目標為 .NET 10
+- Windows 環境，需安裝 Hiwin HRSDK 且能存取 `HRSDK.dll`
+- 手臂控制器可由設定的 IP 位址存取
 
-## �ظm�B�J
-1. �ϥ� Visual Studio 2022�]�Χ�s�^�ñҥ� Windows Forms �u�@�t���C
-2. �}�� `RA605-connect-test2` �M�רöi��ظm�C
-3. �T�O `HRSDK.dll` ���i�����ɮǩΤw�[�J PATH�C
+## 建置步驟
+1. 使用 Visual Studio 2022（或更新）並啟用 Windows Forms 工作負載。
+2. 開啟 `RA605-connect-test2` 專案並進行建置。
+3. 確保 `HRSDK.dll` 位於可執行檔旁或已加入 PATH。
 
-## ���满��
-1. �Ұ����ε{���C
-2. �I�� `Connect` �s�u�ܾ������u�C
-3. ���� `Motor ON` �}�Ұ��F�A�~�i�e�X�B�ʩR�O�C
-4. �Y�ݭn�A�i�� `Get Current Position` �N���e��m���J�� LIN ��J���C
-5. �վ� LIN �ؼЦ�m�B�t�סB�Ҧ��P smooth �ȫ�� `Execute LIN`�C
-6. �[���x�����H���o�E�_�P�����q���C
-7. �ϥ� `Motor OFF` �P `Exit` �w�������ާ@�C
+## 執行說明
+1. 啟動應用程式。
+2. 點擊 `Connect` 連線至機器手臂。
+3. 先按 `Motor ON` 開啟馬達，才可送出運動命令。
+4. 若需要，可按 `Get Current Position` 將當前位置載入到 LIN 輸入欄位。
+5. 調整 LIN 目標位置、速度、模式與 smooth 值後按 `Execute LIN`。
+6. 觀察日誌視窗以取得診斷與完成通知。
+7. 使用 `Motor OFF` 與 `Exit` 安全結束操作。
 
-## ��x�P�E�_
-- �C�h SDK callback �P�������A�ܤƳ��|�b��x����ܮɶ��W�O�C
-- LIN �R�O���Ѯɷ|�O���i�F�� / ���|�ˬd�B���~�X�Pĵ���N�X�A�H��U��X�]�w���D�C
+## 日誌與診斷
+- 每則 SDK callback 與內部狀態變化都會在日誌中顯示時間戳記。
+- LIN 命令失敗時會記錄可達性 / 路徑檢查、錯誤碼與警報代碼，以協助找出設定問題。
 
-## �����P�׭q
-| ���� | ��T |
+## 版本與修訂
+| 項目 | 資訊 |
 | --- | --- |
-| ���� | 1.0.0 |
-| �̷s�׭q | 2024-11-19 18:03 UTC |
+| 版本 | 1.0.0 |
+| 最新修訂 | 2026-01-02 17:03 |
 
-## �䴩
-�Y�J����D�A�аѾ\ HRSDK ��U�� `lin_pos`�B`set_motor_state` �P�s�u�ͩR�g���������禡�A���ˬd��x���� SDK �^���X�C�]�i�H�p����l���@�� `https://github.com/chiangyih/RA605-connect-test`�C
+## 支援
+若遇到問題，請參閱 HRSDK 手冊中 `lin_pos`、`set_motor_state` 與連線生命週期相關的函式，並檢查日誌中的 SDK 回應碼。也可以聯絡原始維護者 `https://github.com/chiangyih/RA605-connect-test`。
