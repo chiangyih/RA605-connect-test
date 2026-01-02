@@ -49,14 +49,8 @@
 
 **HRSS 中的 EXT 模式設置**：
 ```
-HRSS 菜單：
-    Robot → Properties/機械手臂設置
-         ↓
-    Operation Mode/操作模式
-         ↓
-    選擇 EXT（外部模式）
-         ↓
-    確認並啟動模擬
+<img width="1201" height="490" alt="image" src="https://github.com/user-attachments/assets/4c98f308-c70a-4e82-a8f7-f9bda822d9d2" />
+
 ```
 
 **注意**：
