@@ -49,6 +49,15 @@
 
 **HRSS 中的 EXT 模式設置**：
 ```
+HRSS 菜單：
+    Robot → Properties/機械手臂設置
+         ↓
+    Operation Mode/操作模式
+         ↓
+    選擇 EXT（外部模式）
+         ↓
+    確認並啟動模擬
+```
 
 **注意**：
 - HRSS 默認監聽 `localhost:9090` 或 `127.0.0.1`
